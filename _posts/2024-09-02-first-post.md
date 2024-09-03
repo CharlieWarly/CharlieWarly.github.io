@@ -1,6 +1,5 @@
 ---
 title: "Hello to my Blog"
-date: 2024-09-03T15:11:00
 categories:
   - blog
 tags:
