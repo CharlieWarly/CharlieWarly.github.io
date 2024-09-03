@@ -17,9 +17,7 @@ title: Gustus et Fauna
 email: babi@plutode.com
 url: https://babi.plutode.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Gustus et Fauna : Welcome to Babi's cooking and baking blog, where you will find mouthwatering dishes and baked goods. 
 #twitter_username: username
 github_username: CharlieWarly
 minimal_mistakes_skin: sunrise
@@ -61,7 +59,7 @@ plugins:
 author:
   name   : "Babi"
   avatar : "/assets/images/babi2.jpeg"
-  bio    : "Vet student with a deep passion for cooking and baking. Come with me on this delicious journey with recipes and fun! "
+  bio    : "I'm a multicultural veterinary student and polyglot with a deep passion for the culinary arts, and this is my blog, Gustus et Fauna. Join me on this delicious journey filled with recipes and fun! I hope you enjoy the ride :) "
   links:
     
     - label: "GitHub"
