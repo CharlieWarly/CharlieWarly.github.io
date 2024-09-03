@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Babi"
-  avatar : "/assets/images/babi2.jpg"
-  bio    : "Vet student with a deep passion for cooking and baking. Come with me on this delicious journey with recepies and fun! "
+  avatar : "/assets/images/babi2.jpeg"
+  bio    : "Vet student with a deep passion for cooking and baking. Come with me on this delicious journey with recipes and fun! "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
