@@ -1,5 +1,5 @@
 ---
-title: "Post: Teaser Image with OpenGraph Override"
+title: "Teaser Image with OpenGraph Override"
 header:
   teaser: /assets/images/charlie.jpg
   og_image: /assets/babi2.jpeg
@@ -15,8 +15,3 @@ last_modified_at: 2024-10-11T13:18:19-04:00
 
 This post has a teaser image. First test POST
 
-```yaml
-header:
-  teaser: /assets/images/charlie.jpg
-  og_image: /assets/images/babi2.jpeg
-```
