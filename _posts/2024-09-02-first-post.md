@@ -1,6 +1,8 @@
 ---
-title: "Sweet Potato Gnocchi with Red Sauce"
-teaser: /assets/images/gnocchisp.jpg
+title: "The Red Fox Gnocchi"
+- subtitle: "Sweet Potato Gnocchi with brown butter, red sauce and crunchy walnuts"
+header:
+- teaser: /assets/images/gnocchisp.jpg
 categories:
   - Italian
 tags:
@@ -12,7 +14,7 @@ last_modified_at: 2024-09-11T13:18:19-04:00
 
 This dish blablabla
 
-#Ingredients
+# Ingredients
 
 * Sweet potatos
 * 2 egg yolks
@@ -27,8 +29,9 @@ This dish blablabla
 * 600 ml Passata
 * Basilicum
 * 2-3 bell peppers
+* Walnuts
 
-#Directions
+# Directions
 
 1. Start by rinsing the sweet potatos with some water and poking some holes on them with the help of a fork.
 
