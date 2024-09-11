@@ -101,9 +101,9 @@ defaults:
       layout: single
       author_profile: false
 
-category_archive:
+cuisine_archive:
   type: liquid
-  path: /categories/
+  path: /cuisines/
 tag_archive:
   type: liquid
   path: /tags/

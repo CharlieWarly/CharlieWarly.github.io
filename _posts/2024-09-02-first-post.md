@@ -1,10 +1,22 @@
 ---
-title: "Hello to my Blog"
+title: "Post: Teaser Image with OpenGraph Override"
+header:
+  teaser: /assets/images/charlie.jpg
+  og_image: /assets/babi2.jpeg
 categories:
-  - blog
+  - Layout
+  - Uncategorized
 tags:
-  - Cooking
-  - Baking
+  - try
+  - me
+  - layout
+last_modified_at: 2024-10-11T13:18:19-04:00
 ---
 
-I am babi and this is my blog.
+This post has a teaser image. First test POST
+
+```yaml
+header:
+  teaser: /assets/images/charlie.jpg
+  og_image: /assets/images/babi2.jpeg
+```
