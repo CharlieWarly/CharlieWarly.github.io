@@ -1,9 +1,9 @@
 ---
 title: "The Red Fox Gnocchi"
-subtitle: "Sweet Potato Gnocchi with brown butter, red sauce and crunchy walnuts"
 header:
   teaser: /assets/images/gnocchisp.jpg
   overlay_image: /assets/images/gnocchisp.jpg
+excerpt: "Sweet Potato Gnocchi with brown butter, red sauce and crunchy walnuts"
 categories:
   - Italian
 tags:
@@ -12,8 +12,6 @@ tags:
   - fresh
 last_modified_at: 2024-09-11T13:18:19-04:00
 ---
-
-## Sweet Potato Gnocchi with brown butter, red sauce and crunchy walnuts
 
 # Ingredients
 
