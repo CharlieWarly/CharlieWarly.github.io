@@ -2,7 +2,7 @@
 title: "The Red Fox Gnocchi"
 header:
   teaser: /assets/images/gnocchisp.jpg
-  overlay_image: /assets/images/gnocchisp.jpg
+  overlay_image: /assets/images/IMG_0108.jpg
 excerpt: "Sweet Potato Gnocchi with brown butter, red sauce and crunchy walnuts"
 categories:
   - Italian
