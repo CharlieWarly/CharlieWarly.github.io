@@ -67,6 +67,6 @@ And voilà! You're now officially a sweet potato gnocchi pro.
 
 3. While that sauce is working its charm, toast those walnuts in another pan. Crush them up when they’re nice and toasty. Chop your basil leaves, zest that lemon like a boss, and juice half of it. Grate your cheese until your arm gets tired (or not).
 
-4. Remove the steams from the sauce. Now, throw the gnocchi into the sauce and give it a good mix. Serve it up in your fanciest dish, and top it with those crushed walnuts, chopped basil, a sprinkle of lemon zest, a splash of lemon juice, and grated cheese.
+4. Remove the stems from the sauce. Now, throw the gnocchi into the sauce and give it a good mix. Serve it up in your fanciest dish, and top it with those crushed walnuts, chopped basil, a sprinkle of lemon zest, a splash of lemon juice, and grated cheese.
 
 Voilà ! Dig in and enjoy this masterpiece!
