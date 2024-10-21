@@ -1,7 +1,7 @@
 ---
 title: "The Red Fox Gnocchi"
 header:
-  teaser: /assets/images/g1.jpeg
+  teaser: /assets/images/f1.jpg
   overlay_image: /assets/images/g1.jpeg
 excerpt: "Sweet Potato Gnocchi with brown butter, red sauce and crunchy walnuts"
 categories:
