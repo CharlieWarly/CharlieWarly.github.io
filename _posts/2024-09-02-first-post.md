@@ -26,7 +26,7 @@ last_modified_at: 2024-10-22T13:18:19-04:00
 * Olive Oil 
 * 4 gloves of garlic
 * 600 ml Passata
-* Basilicum
+* Basil
 * 30g walnuts
 * 40g of Parmigiano Reggiano (Pecorino Romano also works quite well)
 * Lemon
@@ -69,4 +69,8 @@ And voilà! You're now officially a sweet potato gnocchi pro.
 
 4. Remove the stems from the sauce. Now, throw the gnocchi into the sauce and give it a good mix. Serve it up in your fanciest dish, and top it with those crushed walnuts, chopped basil, a sprinkle of lemon zest, a splash of lemon juice, and grated cheese.
 
-Voilà ! Dig in and enjoy this masterpiece!
+Dig in and enjoy this masterpiece!
+
+# Fun Fact
+
+Red foxes (Vulpes vulpes) are clever solitary hunters with retractable claws and usually live 2 to 4 years in the wild. They are opportunistic omnivores with a varied diet and little dietary fuss. Their young are called kits, while a group of red foxes is known as a skulk or a leash, and females are referred to as vixens. Red foxes typically make their homes in dens. - Red Fox. (Karen de Seve). Animals. "https://kids.nationalgeographic.com/animals/mammals/facts/red-fox"
