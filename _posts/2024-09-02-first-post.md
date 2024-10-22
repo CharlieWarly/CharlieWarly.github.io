@@ -73,4 +73,4 @@ Dig in and enjoy this masterpiece!
 
 # Fun Fact
 
-Red foxes (_Vulpes vulpes_) are clever solitary hunters with retractable claws and usually live 2 to 4 years in the wild. They are opportunistic omnivores with a varied diet and little dietary fuss. Their young are called kits, while a group of red foxes is known as a skulk or a leash, and females are referred to as vixens. Red foxes typically make their homes in dens. - [Red Fox](https://kids.nationalgeographic.com/animals/mammals/facts/red-fox)
+Red foxes (_Vulpes vulpes_) are clever solitary hunters with retractable claws and usually live 2 to 4 years in the wild. They are opportunistic omnivores with a varied diet and little dietary fuss. Their young are called kits, while a group of red foxes is known as a skulk or a leash, and females are referred to as vixens. Red foxes typically make their homes in dens. - [National Geographic Kids](https://kids.nationalgeographic.com/animals/mammals/facts/red-fox)
