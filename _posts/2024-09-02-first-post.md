@@ -17,14 +17,15 @@ last_modified_at: 2024-10-22T13:18:19-04:00
 # Ingredients
 
 * 600g Sweet potato purée
-* 1 egg yolk
+* 1 Egg yolk
 * 350g of 00 flour; or more as needed
 * Salt
 * 50g of butter
-* 1 medium sized onion
-* Pepper
-* Olive Oil 
-* 4 gloves of garlic
+* 1 Onion
+* Black pepper
+* Red pepper
+* Olive oil 
+* 4 cloves of garlic
 * 600 ml Passata
 * Basil
 * 30g walnuts
@@ -61,16 +62,16 @@ And voilà! You're now officially a sweet potato gnocchi pro.
 
 ## Sauce
 
-1. Heat up your pan like you mean it and toss in that butter. We’re caramelizing, not burning, so keep it at medium. Once it’s all golden and luscious, throw in those sliced onions, salt, and pepper. Let them sizzle and get all sweet and sultry.
+1. Heat up your pan like you mean it and toss in that butter. We’re caramelizing, not burning, so keep it at medium. Once it’s all golden and luscious, throw in those sliced onions, salt, and black pepper. Let them sizzle and get all sweet and sultry.
 
-2. When your onions are looking fabulous, add the minced garlic and sauté it like you own the place. Then pour in the passata and toss in those basil stems. Let it simmer on low for about 15 minutes—this is where the magic happens.
+2. When your onions are looking fabulous, add the minced garlic and red peppers. Sauté it like you own the place. Now, throw the gnocchi and give it a good mix. Then pour in the passata and toss in those basil stems. Let it simmer on low for about 15 minutes—this is where the magic happens.
 
 3. While that sauce is working its charm, toast those walnuts in another pan. Crush them up when they’re nice and toasty. Chop your basil leaves, zest that lemon like a boss, and juice half of it. Grate your cheese until your arm gets tired (or not).
 
-4. Remove the stems from the sauce. Now, throw the gnocchi into the sauce and give it a good mix. Serve it up in your fanciest dish, and top it with those crushed walnuts, chopped basil, a sprinkle of lemon zest, a splash of lemon juice, and grated cheese.
+4. Remove the stems from the sauce. Serve it up in your fanciest dish, and top it with those crushed walnuts, chopped basil, a sprinkle of lemon zest, a splash of lemon juice, and grated cheese.
 
 Dig in and enjoy this masterpiece!
 
-# Fun Fact
+# Fun Facts
 
 Red foxes (_Vulpes vulpes_) are clever solitary hunters with retractable claws and usually live 2 to 4 years in the wild. They are opportunistic omnivores with a varied diet and little dietary fuss. Their young are called kits, while a group of red foxes is known as a skulk or a leash, and females are referred to as vixens. Red foxes typically make their homes in dens. - [National Geographic Kids](https://kids.nationalgeographic.com/animals/mammals/facts/red-fox)
