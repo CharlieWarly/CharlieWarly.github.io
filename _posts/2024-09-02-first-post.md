@@ -64,7 +64,7 @@ And voilà! You're now officially a sweet potato gnocchi pro.
 
 1. Heat up your pan like you mean it and toss in that butter. We’re caramelizing, not burning, so keep it at medium. Once it’s all golden and luscious, throw in those sliced onions, salt, and black pepper. Let them sizzle and get all sweet and sultry.
 
-2. When your onions are looking fabulous, add the minced garlic and red peppers. Sauté it like you own the place. Now, throw the gnocchi and give it a good mix. Then pour in the passata and toss in those basil stems. Let it simmer on low for about 15 minutes—this is where the magic happens.
+2. When your onions are looking fabulous, add the minced garlic and red peppers. Sauté it like you own the place. Now, throw in the gnocchi and give it a good mix. Then pour in the passata and toss in those basil stems. Let it simmer on low for about 15 minutes—this is where the magic happens.
 
 3. While that sauce is working its charm, toast those walnuts in another pan. Crush them up when they’re nice and toasty. Chop your basil leaves, zest that lemon like a boss, and juice half of it. Grate your cheese until your arm gets tired (or not).
 
