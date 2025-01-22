@@ -39,26 +39,16 @@ last_modified_at: 2024-10-22T13:18:19-04:00
 Get ready to make the fluffiest, most irresistible sweet potato gnocchi! Let's dive in:
 
 1. Preheat your oven to a sizzling 200°C. Grab around 4 medium-sized sweet potatoes (we're talking roughly 900-800g of pure golden goodness).
-
-2. Wash those beauties ! Give your sweet potatoes a good rinse, dry them off, and stab them with a fork a few times (take out all your frustrations!). You know, for ventilation.
-
-3. Bake 'em. Pop those babies in the oven for about an hour. You’ll know they’re ready when you can effortlessly slide a knife through the middle, like cutting butter. No resistance means perfection!
-
-4. Hot potato, hot potato! Slice your freshly baked potatoes in half and scoop out the mushy insides while they’re still hot. Grab a fork or potato masher and get to work. Mash until smooth and creamy—no lumps allowed!
-
-5. Cool your mash. I know you’re eager, but patience! Let your mashed potatoes cool completely. This step’s a must to avoid ruining your gnocchi game. Once cooled, mix in an egg yolk and start adding flour bit by bit until you get a dough that’s smooth and somewhat sticky. Resist the temptation to over-knead, it should be slightly sticky but manageable—if you can cut it, it’s ready!
-
+1. Wash those beauties ! Give your sweet potatoes a good rinse, dry them off, and stab them with a fork a few times (take out all your frustrations!). You know, for ventilation.
+1. Bake 'em. Pop those babies in the oven for about an hour. You’ll know they’re ready when you can effortlessly slide a knife through the middle, like cutting butter. No resistance means perfection!
+1. Hot potato, hot potato! Slice your freshly baked potatoes in half and scoop out the mushy insides while they’re still hot. Grab a fork or potato masher and get to work. Mash until smooth and creamy—no lumps allowed!
+1. Cool your mash. I know you’re eager, but patience! Let your mashed potatoes cool completely. This step’s a must to avoid ruining your gnocchi game. Once cooled, mix in an egg yolk and start adding flour bit by bit until you get a dough that’s smooth and somewhat sticky. Resist the temptation to over-knead, it should be slightly sticky but manageable—if you can cut it, it’s ready!
 ![I like food a little bit too much](/assets/images/babi2.jpeg)
-
-6. Flour it up. Prep a large, flat surface by generously dusting it with flour. We’re keeping things from sticking— too sticky gnocchi is a no-no.
-
-7. Roll, baby, roll! Shape your dough into a big ball and divide it into four equal parts. Roll each piece into a long cigar shape (think about the width of your index finger), then slice away! You can get creative here—use a ruler if you're feeling fancy, but really, it’s up to you!
-
-8. Flour and chill. Place your cut gnocchi on the floured surface. Repeat until all four dough pieces are cut and ready for the grand finale.
-
-9. Boil time. Get a big pot of water boiling and toss in a generous 5g of salt. While you wait, prep a bowl (metal or glass preferred) with a drizzle of extra virgin olive oil to toss your finished gnocchi in—it’ll keep them from sticking together.
-
-10. Float test. Drop your gnocchi into the boiling water and wait for them to rise to the top—when they float, they’re done! I recommend doing this in batches, depending on the size of your pot.
+1. Flour it up. Prep a large, flat surface by generously dusting it with flour. We’re keeping things from sticking— too sticky gnocchi is a no-no.
+1. Roll, baby, roll! Shape your dough into a big ball and divide it into four equal parts. Roll each piece into a long cigar shape (think about the width of your index finger), then slice away! You can get creative here—use a ruler if you're feeling fancy, but really, it’s up to you!
+1. Flour and chill. Place your cut gnocchi on the floured surface. Repeat until all four dough pieces are cut and ready for the grand finale.
+1. Boil time. Get a big pot of water boiling and toss in a generous 5g of salt. While you wait, prep a bowl (metal or glass preferred) with a drizzle of extra virgin olive oil to toss your finished gnocchi in—it’ll keep them from sticking together.
+1. Float test. Drop your gnocchi into the boiling water and wait for them to rise to the top—when they float, they’re done! I recommend doing this in batches, depending on the size of your pot.
 
 And voilà! You're now officially a sweet potato gnocchi pro. 
 
