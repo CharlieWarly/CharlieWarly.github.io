@@ -66,8 +66,6 @@ And voilà! You're now officially a sweet potato gnocchi pro.
 ![I like food a little bit too much](/assets/images/15step.jpeg)
 ![I like food a little bit too much](/assets/images/16step.jpeg)
 1. When your onions are looking fabulous, add the minced garlic and bell peppers. Sauté it like you own the place. Now, throw in the gnocchi and give it a good mix. Then pour in the passata and toss in those basil stems. Let it simmer on low for about 15 minutes—this is where the magic happens.
-![I like food a little bit too much](/assets/images/17step.jpeg)
-![I like food a little bit too much](/assets/images/18step.jpeg)
 1. While that sauce is working its charm, toast those walnuts in another pan. Crush them up when they’re nice and toasty. Chop your basil leaves, zest that lemon like a boss, and juice half of it. Grate your cheese until your arm gets tired (or not).
 1. Remove the stems from the sauce. Serve it up in your fanciest dish, and top it with those crushed walnuts, chopped basil, a sprinkle of lemon zest, a splash of lemon juice, and grated cheese.
 
