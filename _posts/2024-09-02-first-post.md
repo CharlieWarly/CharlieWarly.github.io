@@ -48,6 +48,8 @@ Get ready to make the fluffiest, most irresistible sweet potato gnocchi! Let's d
 
 5. Cool your mash. I know you’re eager, but patience! Let your mashed potatoes cool completely. This step’s a must to avoid ruining your gnocchi game. Once cooled, mix in an egg yolk and start adding flour bit by bit until you get a dough that’s smooth and somewhat sticky. Resist the temptation to over-knead, it should be slightly sticky but manageable—if you can cut it, it’s ready!
 
+![I like food a little bit too much](/assets/images/babi2.jpeg)
+
 6. Flour it up. Prep a large, flat surface by generously dusting it with flour. We’re keeping things from sticking— too sticky gnocchi is a no-no.
 
 7. Roll, baby, roll! Shape your dough into a big ball and divide it into four equal parts. Roll each piece into a long cigar shape (think about the width of your index finger), then slice away! You can get creative here—use a ruler if you're feeling fancy, but really, it’s up to you!
